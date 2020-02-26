@@ -21,7 +21,7 @@ var documents = [{
     "body": "WarningDo not manually save images into this folder. This is used by GitHub Actions to automatically copy images.  Any images you save into this folder could be deleted at build time. "
     }, {
     "id": 4,
-    "url": "https://rregue.github.io/markdown/2020/02/26/my-first-markdown.html",
+    "url": "https://rregue.github.io/datascience/2020/02/26/my-first-markdown.html",
     "title": "My first markdown post",
     "body": "2020/02/26 - Something very interesting "
     }, {
