@@ -1,7 +1,7 @@
 ---
 toc: true
 description: A minimal example of using markdown with fastpages.
-categories: [markdown]
+categories: [datascience]
 ---
 # My first markdown post
 
